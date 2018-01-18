@@ -9,7 +9,8 @@ package testgitproject;
  *
  * @author mattd
  */
-public class TestGitProject {
+public class TestGitProject 
+{
 
     /**
      * @param args the command line arguments
@@ -18,6 +19,7 @@ public class TestGitProject {
     {
         // TODO code application logic here
         //Changes
+        // Aplico otro cambio
     }
     
 }
